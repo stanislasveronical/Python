@@ -1,3 +1,3 @@
 # Python
 
-![python.JPG](https://github.com/stanislasveronical/STAGE-BTSSIO2/blob/master/python.JPG)
+![python.JPG](https://github.com/stanislasveronical/Python/blob/master/python.jpg)
