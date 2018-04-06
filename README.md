@@ -9,6 +9,8 @@ Pour l'examen, nous avons utilisé Python.
 
 # Python
 
+Python est un language de programmation open source, libre et multi-plateformes, à la fois puissant et facile à maîtriser. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet. 
+
 ![python.JPG](https://github.com/stanislasveronical/Python/blob/master/python.jpg)
 
-Python est un language de programmation favorisant la programmation impérative structurée, fonctionnelle et orientée objet. 
+
